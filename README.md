@@ -1,1 +1,1 @@
-# mi-syte
+# mi-site
